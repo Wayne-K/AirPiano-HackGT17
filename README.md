@@ -1,4 +1,4 @@
-# HackGT17 VR Piano
+# HackGT17 VR Air Piano
 
 ## Inspiration
 We wanted to utilize the leap motion technology by making something that is interactive and useful. All of our team members have some kind of music background so we decided to make an application that can help people explore and learn how to play music without having the overbearing cost of buying an instrument.
